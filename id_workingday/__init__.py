@@ -8,3 +8,5 @@ __all__ = [
 
 __version__ = "1.0.0"
 __author__ = "Irsyad Damlis"
+__email__ = "irsyad.damlis@gmail.com"
+__license__ = "MIT"
